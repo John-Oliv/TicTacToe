@@ -1,5 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello World");
+    printf("     |     |     ");
+    printf("\n_____|_____|_____");
+    printf("\n     |     |     ");
+    printf("\n_____|_____|_____");
+    printf("\n     |     |     ");
+    printf("\n     |     |     ");
 }
